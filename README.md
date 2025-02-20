@@ -1,5 +1,7 @@
 Amigo Secreto 🎁
 
+Link de acesso: https://amigosecreto-rho.vercel.app
+
 Este é um projeto de Amigo Secreto desenvolvido utilizando HTML, CSS e JavaScript, como parte do Projeto ONE (Oracle Next Education) em parceria com a Alura.
 
 📌 Sobre o Projeto
